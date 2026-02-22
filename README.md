@@ -1,15 +1,40 @@
 # Hi! I'm Leonel (aka Keiix3) 👋
 
-I'm a tech enthusiast building a hybrid profile in **QA Testing** and **Data Science & AI**. I love the idea of ensuring software quality while also understanding the logic and stories hidden inside data.
+I'm building a hybrid profile in **QA Testing** and **Data Analysis**, 
+with a genuine interest in how software works, how it breaks, 
+and what the data behind it reveals.
 
-### 🛠️ My Testing Ground: Operación Capibara 🎮
-Instead of just reading theory, I use game development as my ultimate laboratory. I'm currently solo-developing a chaotic, top-down shooter game in Python. Building this project allows me to:
-* Write complex Python code and manage data variables.
-* Apply QA Testing principles to my own logic (making sure the game doesn't break in production!).
-* Get hands-on experience with the same foundational programming used in Data Science.
+I came to tech through curiosity more than a straight path, 
+and I think that gives me a different perspective: 
+I care about the *why* behind systems, not just the *how*.
 
-### 🚀 Tools & Technologies:
-* Python | SQL | Postman | Quality Assurance
+---
 
-### 📫 Let's connect:
-* **LinkedIn:** (https://www.linkedin.com/in/keiix3/)
+## 🎮 Operación Capibara — My Learning Lab
+
+Instead of passive theory, I learn by building things.
+*Operación Capibara* is a top-down shooter I've been designing 
+and directing as a personal project, developed with AI assistance 
+in Python/Pygame across dozens of iterative sessions.
+
+My role wasn't writing every line — it was making decisions:
+- Designing game mechanics and character systems from scratch
+- Defining balance, feedback loops and player experience
+- Acting as product owner and QA: testing, breaking things 
+  and deciding what to fix and why
+- Managing scope and iterating based on what actually worked
+
+It taught me more about software behavior, edge cases and 
+product thinking than any tutorial could.
+
+---
+
+## 🛠️ Currently working with
+- Python · SQL · Postman
+- QA methodologies (test cases, bug reporting)
+- Git & GitHub
+
+---
+
+## 📫 Let's connect
+LinkedIn: https://www.linkedin.com/in/keiix3/
